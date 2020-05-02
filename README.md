@@ -1,4 +1,4 @@
-# Prusa Enclosure Addons
+# Prusa enclosure addons
 
 As a new owner of Prusa Mini, I built an enclosure following the [official prusa guide](https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure/).
 Besides few deviations from the guide, I also wanted to build temperature monitoring, based on esp32.
